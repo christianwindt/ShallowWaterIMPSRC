@@ -1,0 +1,4 @@
+12 Cells per Waveheight
+Aspect ratio 4
+Interface discretisation [0.7 0.78]
+Free surface at 0.74
